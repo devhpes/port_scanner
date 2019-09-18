@@ -1,7 +1,7 @@
 import socket
 
 """
-Simple Port Scanner Using Socket
+Simple Port Scanner Using Socket Module
 """
 
 target = input("Enter a IP address to scan: ")
